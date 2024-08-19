@@ -1,4 +1,3 @@
-const limparMensagem = document.querySelector(".mensagem-error");
 const apagarInputDados = document.querySelector(".reset");
 
 apagarInputDados.addEventListener("click", function () {
